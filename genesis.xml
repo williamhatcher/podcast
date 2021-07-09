@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Genesis - Thru-the-Bible with Pastor Paul (Audio)</title>
+    <link>https://www.ccontario.com/thru-the-bible</link>
+    <description>The Book of Genesis</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jul 2021 18:42:55 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Nov 2012 00:00:00 -0500</pubDate>
+    <webMaster>william@hatcher.work</webMaster>
+    <itunes:image href="https://static.wixstatic.com/media/c45ab5_b4554dc4ea324671912a34ba6e8c986f~mv2.jpg/v1/fill/w_261,h_144,al_c,q_80,usm_0.66_1.00_0.01/Genesis.jpg"/>
+    <itunes:owner>
+      <itunes:name>Calvary Chapel Ontario</itunes:name>
+      <itunes:email>none@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Genesis 1: 1-5</title>
+      <description><![CDATA[The Book of Origins (First Day of Creation)]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis1v1-5.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis1v1-5.mp3" length="20144298" type="audio/mpeg"/>
+      <itunes:duration>55:57</itunes:duration>
+      <pubDate>Wed, 04 Jan 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Book of Origins (First Day of Creation)</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 1:5-31</title>
+      <description><![CDATA[Creation Days Two through Six]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis1v5-31.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis1v5-31.mp3" length="19437738" type="audio/mpeg"/>
+      <itunes:duration>53:59</itunes:duration>
+      <pubDate>Wed, 11 Jan 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Creation Days Two through Six</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 2</title>
+      <description><![CDATA[Sabbath Rest and Focus on Creation of Man and Woman]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis2.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis2.mp3" length="23673650" type="audio/mpeg"/>
+      <itunes:duration>01:05:45</itunes:duration>
+      <pubDate>Wed, 18 Jan 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Sabbath Rest and Focus on Creation of Man and Woman</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 3</title>
+      <description><![CDATA[The Reign of Sin Begins]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis3.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis3.mp3" length="22215106" type="audio/mpeg"/>
+      <itunes:duration>01:01:42</itunes:duration>
+      <pubDate>Wed, 25 Jan 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Reign of Sin Begins</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 4:1-17</title>
+      <description><![CDATA[Cain and Abel]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis4v1-17.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis4v1-17.mp3" length="22789382" type="audio/mpeg"/>
+      <itunes:duration>01:03:18</itunes:duration>
+      <pubDate>Wed, 08 Feb 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Cain and Abel</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 4:18 thru chapter 5</title>
+      <description><![CDATA[Pre-Flood Population]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis4v18-ch5.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis4v18-ch5.mp3" length="19299684" type="audio/mpeg"/>
+      <itunes:duration>53:36</itunes:duration>
+      <pubDate>Wed, 15 Feb 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Pre-Flood Population</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 6-7</title>
+      <description><![CDATA[Corruption and the Flood]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis6-7.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis6-7.mp3" length="17219657" type="audio/mpeg"/>
+      <itunes:duration>47:49</itunes:duration>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Corruption and the Flood</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 8-9</title>
+      <description><![CDATA[Starting Over - The Noahic Covenant]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis8-9.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis8-9.mp3" length="20793522" type="audio/mpeg"/>
+      <itunes:duration>57:45</itunes:duration>
+      <pubDate>Wed, 07 Mar 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Starting Over - The Noahic Covenant</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 10-12</title>
+      <description><![CDATA[Noah's Descendants, Babel and the Call of Abram]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis10-12.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis10-12.mp3" length="17700962" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 21 Mar 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Noah's Descendants, Babel and the Call of Abram</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 13</title>
+      <description><![CDATA[God's Provision for Abram]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis13.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis13.mp3" length="16601809" type="audio/mpeg"/>
+      <itunes:duration>46:06</itunes:duration>
+      <pubDate>Wed, 28 Mar 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>God's Provision for Abram</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 14</title>
+      <description><![CDATA[Abram Rescues Lot]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis14.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis14.mp3" length="18797349" type="audio/mpeg"/>
+      <itunes:duration>52:12</itunes:duration>
+      <pubDate>Wed, 04 Apr 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Abram Rescues Lot</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 15-16</title>
+      <description><![CDATA[God's Covenant / Sarai and Hagar]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis15-16.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis15-16.mp3" length="18044210" type="audio/mpeg"/>
+      <itunes:duration>50:07</itunes:duration>
+      <pubDate>Wed, 11 Apr 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>God's Covenant / Sarai and Hagar</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 17</title>
+      <description><![CDATA[Cutting Away the Flesh]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis17.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis17.mp3" length="17654910" type="audio/mpeg"/>
+      <itunes:duration>49:02</itunes:duration>
+      <pubDate>Wed, 18 Apr 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Cutting Away the Flesh</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 18</title>
+      <description><![CDATA[Abraham Intercedes for Lot]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis18.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis18.mp3" length="49403904" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 02 May 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Abraham Intercedes for Lot</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 19</title>
+      <description><![CDATA[Judgment on Sodom]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis19.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis19.mp3" length="55379712" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 09 May 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Judgment on Sodom</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 20-21</title>
+      <description><![CDATA[Abraham and Abimelech / The Birth of Isaac]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis20-21.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis20-21.mp3" length="92853810" type="audio/mpeg"/>
+      <itunes:duration>47:36</itunes:duration>
+      <pubDate>Wed, 16 May 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Abraham and Abimelech / The Birth of Isaac</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 22-23</title>
+      <description><![CDATA[Sacrificing Issac / Burying Sarah]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis22-23.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis22-23.mp3" length="53866752" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 23 May 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Sacrificing Issac / Burying Sarah</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 24:1-28</title>
+      <description><![CDATA[The Search for Isaac's Wife]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis24v1-28.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis24v1-28.mp3" length="12294273" type="audio/mpeg"/>
+      <itunes:duration>33:39</itunes:duration>
+      <pubDate>Wed, 30 May 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Search for Isaac's Wife</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 24:28 - 25:18</title>
+      <description><![CDATA[Isaac Marries / Abraham Dies]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis24v28-gen25v1-18.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis24v28-gen25v1-18.mp3" length="14004000" type="audio/mpeg"/>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Isaac Marries / Abraham Dies</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 25:19-34</title>
+      <description><![CDATA[Esau and Jacob]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis25v19-34.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis25v19-34.mp3" length="20057328" type="audio/mpeg"/>
+      <pubDate>Wed, 13 Jun 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Esau and Jacob</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 26-27</title>
+      <description><![CDATA[God's Promise is Given to Jacob]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis26-27.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis26-27.mp3" length="18901682" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Jul 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>God's Promise is Given to Jacob</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 28-29:31</title>
+      <description><![CDATA[Jacob, Leah and Rachel]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis28-29v1-31.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis28-29v1-31.mp3" length="21538770" type="audio/mpeg"/>
+      <itunes:duration>59:20</itunes:duration>
+      <pubDate>Wed, 25 Jul 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Jacob, Leah and Rachel</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 29: 31-Chapter 31</title>
+      <description><![CDATA[Jacob's Children / Running Away]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis29v31-gen31.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis29v31-gen31.mp3" length="16563697" type="audio/mpeg"/>
+      <itunes:duration>45:31</itunes:duration>
+      <pubDate>Wed, 08 Aug 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Jacob's Children / Running Away</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 32</title>
+      <description><![CDATA[Jacob Wrestles With God]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis32.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis32.mp3" length="22205833" type="audio/mpeg"/>
+      <itunes:duration>01:01:11</itunes:duration>
+      <pubDate>Wed, 15 Aug 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Jacob Wrestles With God</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 33-35</title>
+      <description><![CDATA[Hardships]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis33-35.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis33-35.mp3" length="20775002" type="audio/mpeg"/>
+      <itunes:duration>57:13</itunes:duration>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Hardships</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 36-37</title>
+      <description><![CDATA[Joseph - A Man of Dreams]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis36-37.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis36-37.mp3" length="15323769" type="audio/mpeg"/>
+      <itunes:duration>42:04</itunes:duration>
+      <pubDate>Wed, 29 Aug 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Joseph - A Man of Dreams</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 38</title>
+      <description><![CDATA[Judah and Tamar]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis38.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis38.mp3" length="18760804" type="audio/mpeg"/>
+      <itunes:duration>51:37</itunes:duration>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Judah and Tamar</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 39-40</title>
+      <description><![CDATA[From Prison and Prophecy]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis39-40.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis39-40.mp3" length="20337242" type="audio/mpeg"/>
+      <itunes:duration>56:00</itunes:duration>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>From Prison and Prophecy</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 41</title>
+      <description><![CDATA[Joseph Becomes a Leader]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis41.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis41.mp3" length="19128504" type="audio/mpeg"/>
+      <itunes:duration>52:38</itunes:duration>
+      <pubDate>Wed, 19 Sep 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Joseph Becomes a Leader</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 42-43</title>
+      <description><![CDATA[The Famine and the Meeting]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis42-43.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis42-43.mp3" length="20796474" type="audio/mpeg"/>
+      <itunes:duration>57:16</itunes:duration>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Famine and the Meeting</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 44-45</title>
+      <description><![CDATA[Joseph Tests His Brothers]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis44-45.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis44-45.mp3" length="20900389" type="audio/mpeg"/>
+      <itunes:duration>57:34</itunes:duration>
+      <pubDate>Wed, 17 Oct 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Joseph Tests His Brothers</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 46-47</title>
+      <description><![CDATA[Joseph's Family Comes to Egypt]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis46-47.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis46-47.mp3" length="21115273" type="audio/mpeg"/>
+      <itunes:duration>58:10</itunes:duration>
+      <pubDate>Thu, 25 Oct 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Joseph's Family Comes to Egypt</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 48-49</title>
+      <description><![CDATA[Jacob Blesses His Children]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis48-49.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis48-49.mp3" length="17704412" type="audio/mpeg"/>
+      <itunes:duration>48:41</itunes:duration>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Jacob Blesses His Children</itunes:subtitle>
+    </item>
+    <item>
+      <title>Genesis 50</title>
+      <description><![CDATA[Joseph and God's Purpose to Save Israel]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/genesis/genesis50.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/genesis/genesis50.mp3" length="17917885" type="audio/mpeg"/>
+      <itunes:duration>49:17</itunes:duration>
+      <pubDate>Fri, 02 Nov 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Joseph and God's Purpose to Save Israel</itunes:subtitle>
+    </item>
+  </channel>
+</rss>
