@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Deuteronomy - Thru-the-Bible with Pastor Paul (Audio)</title>
+    <link>https://www.ccontario.com/thru-the-bible</link>
+    <description>The Book of Deuteronomy</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jul 2021 19:20:17 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Oct 2017 00:00:00 -0500</pubDate>
+    <webMaster>william@hatcher.work</webMaster>
+    <itunes:image href="https://static.wixstatic.com/media/c45ab5_28172ddee7334300ae2198852e21a390~mv2.png"/>
+    <itunes:owner>
+      <itunes:name>Calvary Chapel Ontario</itunes:name>
+      <itunes:email>none@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Deuteronomy 1-3</title>
+      <description><![CDATA[Preparing to enter the Promised Land]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy1-3.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy1-3.mp3" length="88845273" type="audio/mpeg"/>
+      <itunes:duration>45:23</itunes:duration>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Preparing to enter the Promised Land</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 4</title>
+      <description><![CDATA[Keys to Victory]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy4.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy4.mp3" length="83337217" type="audio/mpeg"/>
+      <itunes:duration>42:41</itunes:duration>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Keys to Victory</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 5 (Part 1)</title>
+      <description><![CDATA[The 10 Commandments]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy5(part1).mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy5(part1).mp3" length="91488551" type="audio/mpeg"/>
+      <itunes:duration>46:43</itunes:duration>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The 10 Commandments</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 5 (Part 2) and Ch 6</title>
+      <description><![CDATA[Love the Lord Your God]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy5(part2)-6.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy5(part2)-6.mp3" length="74515566" type="audio/mpeg"/>
+      <itunes:duration>38:12</itunes:duration>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Love the Lord Your God</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 7-8</title>
+      <description><![CDATA[Don't Forget the Lord]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy7-8.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy7-8.mp3" length="95257701" type="audio/mpeg"/>
+      <itunes:duration>48:48</itunes:duration>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Don't Forget the Lord</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 9-10</title>
+      <description><![CDATA[Hear O Israel]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy9-10.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy9-10.mp3" length="94396281" type="audio/mpeg"/>
+      <itunes:duration>48:13</itunes:duration>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Hear O Israel</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 11-13</title>
+      <description><![CDATA[The Physical Mosaic Covenant]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy11-13.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy11-13.mp3" length="54679408" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Physical Mosaic Covenant</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 14-17</title>
+      <description><![CDATA[Different from the world]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy14-17.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy14-17.mp3" length="101294661" type="audio/mpeg"/>
+      <itunes:duration>51:42</itunes:duration>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Different from the world</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 18-20</title>
+      <description><![CDATA[Rejecting Spiritism]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy18-20.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy18-20.mp3" length="96152863" type="audio/mpeg"/>
+      <itunes:duration>49:04</itunes:duration>
+      <pubDate>Wed, 09 Aug 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Rejecting Spiritism</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 21</title>
+      <description><![CDATA[Various Laws and their meanings]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy21.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy21.mp3" length="86228229" type="audio/mpeg"/>
+      <itunes:duration>44:05</itunes:duration>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Various Laws and their meanings</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 22</title>
+      <description><![CDATA[God's Order in All Things]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy22.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy22.mp3" length="100187549" type="audio/mpeg"/>
+      <itunes:duration>51:11</itunes:duration>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>God's Order in All Things</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 23</title>
+      <description><![CDATA[Walking in Agreement with God's Holiness]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy23.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy23.mp3" length="78609792" type="audio/mpeg"/>
+      <itunes:duration>40:15</itunes:duration>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Walking in Agreement with God's Holiness</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 24</title>
+      <description><![CDATA[Protecting a Moral Society]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy24.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy24.mp3" length="81844118" type="audio/mpeg"/>
+      <itunes:duration>41:46</itunes:duration>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Protecting a Moral Society</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 25-26</title>
+      <description><![CDATA[Justice in Israel]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy25-26.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy25-26.mp3" length="97665777" type="audio/mpeg"/>
+      <itunes:duration>49:54</itunes:duration>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Justice in Israel</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 27-28</title>
+      <description><![CDATA[Blessings and Curses]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy27-28.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy27-28.mp3" length="89092568" type="audio/mpeg"/>
+      <itunes:duration>45:27</itunes:duration>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Blessings and Curses</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 29-30</title>
+      <description><![CDATA[Ratifying the Covenant]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy29-30.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy29-30.mp3" length="79352058" type="audio/mpeg"/>
+      <itunes:duration>40:39</itunes:duration>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Ratifying the Covenant</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 31-32</title>
+      <description><![CDATA[The Lord will go before you]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy31-32.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy31-32.mp3" length="95987161" type="audio/mpeg"/>
+      <itunes:duration>49:03</itunes:duration>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Lord will go before you</itunes:subtitle>
+    </item>
+    <item>
+      <title>Deuteronomy 33-34</title>
+      <description><![CDATA[Blessing the Tribes / The Death of Moses]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy33-34.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/deuteronomy/deuteronomy33-34.mp3" length="61690498" type="audio/mpeg"/>
+      <itunes:duration>31:28</itunes:duration>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Blessing the Tribes / The Death of Moses</itunes:subtitle>
+    </item>
+  </channel>
+</rss>
