@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>2 Samuel - Thru-the-Bible with Pastor Paul (Audio)</title>
+    <link>https://www.ccontario.com/thru-the-bible</link>
+    <description>The Book of 2 Samuel</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jul 2021 19:54:21 +0000</lastBuildDate>
+    <pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate>
+    <webMaster>william@hatcher.work</webMaster>
+    <itunes:image href="https://static.wixstatic.com/media/c45ab5_a87b36a08c0948dc9bba35f4f4e56974~mv2.png/v1/fill/w_496,h_272,al_c,lg_1/2SAMUEL.png"/>
+    <itunes:owner>
+      <itunes:name>Calvary Chapel Ontario</itunes:name>
+      <itunes:email>none@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>2 Samuel 1-2</title>
+      <description><![CDATA[When Your Enemy Falls]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel1-2.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel1-2.mp3" length="44675555" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>When Your Enemy Falls</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 3-4</title>
+      <description><![CDATA[David Becomes King]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel3-4.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel3-4.mp3" length="26519408" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>David Becomes King</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 5-6</title>
+      <description><![CDATA[The Holiness of God]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel5-6.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel5-6.mp3" length="47119990" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Holiness of God</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 7</title>
+      <description><![CDATA[The Promised King]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel7.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel7.mp3" length="33889701" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Tue, 10 Mar 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Promised King</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 8-10</title>
+      <description><![CDATA[The Victories of David]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel8-10.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel8-10.mp3" length="36403098" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Fri, 20 Mar 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Victories of David</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 11-12</title>
+      <description><![CDATA[David and Bathsheba]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel11-12.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel11-12.mp3" length="43177799" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>David and Bathsheba</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 13</title>
+      <description><![CDATA[The Sins of the Fathers]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel13.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel13.mp3" length="33049289" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Sins of the Fathers</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 14-16:14</title>
+      <description><![CDATA[Absalom's Treachery]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel14-16v14.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel14-16v14.mp3" length="44438886" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Absalom's Treachery</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 16:15 - Chapter 18</title>
+      <description><![CDATA[Pride Breeds Destruction]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel16v15-chapter18.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel16v15-chapter18.mp3" length="40743082" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Pride Breeds Destruction</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 19</title>
+      <description><![CDATA[Kingdom Minded]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel19.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel19.mp3" length="32301038" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Sun, 10 May 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Kingdom Minded</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 20-22</title>
+      <description><![CDATA[The Sword Continues to Devour]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel20-22.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel20-22.mp3" length="40386040" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 20 May 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Sword Continues to Devour</itunes:subtitle>
+    </item>
+    <item>
+      <title>2 Samuel 23-24</title>
+      <description><![CDATA[A Summary of the Reign of David]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/2samuel/2samuel23-24.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/2samuel/2samuel23-24.mp3" length="48743761" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Sat, 30 May 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>A Summary of the Reign of David</itunes:subtitle>
+    </item>
+  </channel>
+</rss>

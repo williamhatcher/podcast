@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Ruth - Thru-the-Bible with Pastor Paul (Audio)</title>
+    <link>https://www.ccontario.com/thru-the-bible</link>
+    <description>The Book of Ruth</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jul 2021 19:42:52 +0000</lastBuildDate>
+    <pubDate>Wed, 21 May 2014 00:00:00 -0500</pubDate>
+    <webMaster>william@hatcher.work</webMaster>
+    <itunes:image href="https://static.wixstatic.com/media/c45ab5_53a8b7fc991f4c6fa0082560f822dcc3~mv2.jpg/v1/fill/w_496,h_270,al_c,lg_1,q_80/bookofruth-title.jpg"/>
+    <itunes:owner>
+      <itunes:name>Calvary Chapel Ontario</itunes:name>
+      <itunes:email>none@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Ruth 1</title>
+      <description><![CDATA[Famine and a Fateful Decision]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/ruth/ruth1.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/ruth/ruth1.mp3" length="17267673" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 01 May 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Famine and a Fateful Decision</itunes:subtitle>
+    </item>
+    <item>
+      <title>Ruth 2</title>
+      <description><![CDATA[A Character Sketch of Ruth and Boaz]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/ruth/ruth2.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/ruth/ruth2.mp3" length="18446736" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 07 May 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>A Character Sketch of Ruth and Boaz</itunes:subtitle>
+    </item>
+    <item>
+      <title>Ruth 3</title>
+      <description><![CDATA[Ruth and Boaz at the Threshing Floor]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/ruth/ruth3.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/ruth/ruth3.mp3" length="16778870" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 14 May 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Ruth and Boaz at the Threshing Floor</itunes:subtitle>
+    </item>
+    <item>
+      <title>Ruth 4</title>
+      <description><![CDATA[Ruth and Boaz Marry / The Genealogy of Messiah]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/ruth/ruth4.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/ruth/ruth4.mp3" length="17035705" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 21 May 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Ruth and Boaz Marry / The Genealogy of Messiah</itunes:subtitle>
+    </item>
+  </channel>
+</rss>

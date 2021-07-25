@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>1 Samuel - Thru-the-Bible with Pastor Paul (Audio)</title>
+    <link>https://www.ccontario.com/thru-the-bible</link>
+    <description>The Book of 1 Samuel</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jul 2021 19:47:30 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Jan 2015 00:00:00 -0500</pubDate>
+    <webMaster>william@hatcher.work</webMaster>
+    <itunes:image href="https://static.wixstatic.com/media/c45ab5_0e4159e4d0f143b185023fd9fb8b2e3d~mv2.png/v1/fill/w_496,h_270,al_c,lg_1/1SAMUEL.png"/>
+    <itunes:owner>
+      <itunes:name>Calvary Chapel Ontario</itunes:name>
+      <itunes:email>none@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>1 Samuel Chapter 1</title>
+      <description><![CDATA[The Birth of Samuel]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel1.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel1.mp3" length="26022873" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 11 Sep 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Birth of Samuel</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel Chapter 2</title>
+      <description><![CDATA[Hannah's Prayer and Eli's Sons]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel2.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel2.mp3" length="26071147" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 18 Sep 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Hannah's Prayer and Eli's Sons</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel Chapters 3-4</title>
+      <description><![CDATA[Judgment on the House of Eli]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel3-4.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel3-4.mp3" length="25927787" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 25 Sep 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Judgment on the House of Eli</itunes:subtitle>
+    </item>
+    <item>
+      <title>I Samuel 5-7</title>
+      <description><![CDATA[God Reveals Himself to the Philistines]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel5-7.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel5-7.mp3" length="23272074" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>God Reveals Himself to the Philistines</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 8-10</title>
+      <description><![CDATA[The King of Israel]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel8-10.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel8-10.mp3" length="27500568" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The King of Israel</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 11-12</title>
+      <description><![CDATA[The Humble King]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel11-12.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel11-12.mp3" length="23206246" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 16 Oct 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Humble King</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 13-14</title>
+      <description><![CDATA[The Pride of Saul]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel13-14.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel13-14.mp3" length="30966912" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 23 Oct 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Pride of Saul</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 15 - 16</title>
+      <description><![CDATA[God Rejects King Saul / Anoints David]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel15-16.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel15-16.mp3" length="26273230" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>God Rejects King Saul / Anoints David</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 17 (Part 1)</title>
+      <description><![CDATA[David and Goliath]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel17(part1).mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel17(part1).mp3" length="28719128" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 13 Nov 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>David and Goliath</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 17 (Part 2)</title>
+      <description><![CDATA[How to Kill a Giant]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel17(part2).mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel17(part2).mp3" length="24376741" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 19 Nov 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>How to Kill a Giant</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 18</title>
+      <description><![CDATA[Where Your Treasure Is]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel18.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel18.mp3" length="24364202" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Fri, 05 Dec 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Where Your Treasure Is</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 19-20</title>
+      <description><![CDATA[Bitterness in the Heart]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel19-20.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel19-20.mp3" length="24184270" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Bitterness in the Heart</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 21-22</title>
+      <description><![CDATA[Trust in the Lord]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel21-22.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel21-22.mp3" length="27730654" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 18 Dec 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Trust in the Lord</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 23-24</title>
+      <description><![CDATA[The Heart of David]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel23-24.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel23-24.mp3" length="28607532" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 08 Jan 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Heart of David</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 25</title>
+      <description><![CDATA[Temptation]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel25.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel25.mp3" length="25460927" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Temptation</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 26-27</title>
+      <description><![CDATA[The Danger of Weariness]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel26-27.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel26-27.mp3" length="25256754" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 22 Jan 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Danger of Weariness</itunes:subtitle>
+    </item>
+    <item>
+      <title>1 Samuel 28-31</title>
+      <description><![CDATA[The Danger of Compromise]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/1samuel/1samuel28-31.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/1samuel/1samuel28-31.mp3" length="45099679" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Danger of Compromise</itunes:subtitle>
+    </item>
+  </channel>
+</rss>

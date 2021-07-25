@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Joshua - Thru-the-Bible with Pastor Paul (Audio)</title>
+    <link>https://www.ccontario.com/thru-the-bible</link>
+    <description>The Book of Joshua</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jul 2021 19:30:15 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Dec 2013 00:00:00 -0500</pubDate>
+    <webMaster>william@hatcher.work</webMaster>
+    <itunes:image href="https://static.wixstatic.com/media/c45ab5_9a2b4c4c194241678772a856748cf93f~mv2.jpg/v1/fill/w_496,h_270,al_c,q_80,usm_0.66_1.00_0.01/joshuaslider.jpg"/>
+    <itunes:owner>
+      <itunes:name>Calvary Chapel Ontario</itunes:name>
+      <itunes:email>none@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Joshua 1</title>
+      <description><![CDATA[Joshua takes over for Moses
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua1_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua1.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua1.mp3" length="51129462" type="audio/mpeg"/>
+      <itunes:duration>26:13</itunes:duration>
+      <pubDate>Wed, 04 Sep 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Joshua takes over for Moses
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua1_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 2</title>
+      <description><![CDATA[Rahab and the Spies
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua2_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua2.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua2.mp3" length="51441912" type="audio/mpeg"/>
+      <itunes:duration>26:30</itunes:duration>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Rahab and the Spies
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua2_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 3-4</title>
+      <description><![CDATA[Crossing the Jordan and Remembering
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua3-4_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua3-4.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua3-4.mp3" length="10799691" type="audio/mpeg"/>
+      <itunes:duration>29:59</itunes:duration>
+      <pubDate>Wed, 18 Sep 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Crossing the Jordan and Remembering
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua3-4_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 5:1-12</title>
+      <description><![CDATA[Rolling Away the Past
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua5(part1)_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua5v1-12.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua5v1-12.mp3" length="11581013" type="audio/mpeg"/>
+      <itunes:duration>32:10</itunes:duration>
+      <pubDate>Wed, 25 Sep 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Rolling Away the Past
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua5(part1)_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 5:13-6:27</title>
+      <description><![CDATA[Passover And A Very Special Messenger
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua5(part2)-chapter6_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua5v13-6v27.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua5v13-6v27.mp3" length="12143848" type="audio/mpeg"/>
+      <itunes:duration>33:43</itunes:duration>
+      <pubDate>Wed, 02 Oct 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Passover And A Very Special Messenger
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua5(part2)-chapter6_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 7</title>
+      <description><![CDATA[Defeat at Ai and Sin in the Camp
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua7_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua7.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua7.mp3" length="15435746" type="audio/mpeg"/>
+      <itunes:duration>42:52</itunes:duration>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Defeat at Ai and Sin in the Camp
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua7_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 8</title>
+      <description><![CDATA[The God of Second Chances and Renewal
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua8_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua8.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua8.mp3" length="11190587" type="audio/mpeg"/>
+      <itunes:duration>31:05</itunes:duration>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The God of Second Chances and Renewal
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua8_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 9</title>
+      <description><![CDATA[Deceived by the Gibeonites
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua9_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua9.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua9.mp3" length="9007273" type="audio/mpeg"/>
+      <itunes:duration>25:01</itunes:duration>
+      <pubDate>Wed, 23 Oct 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Deceived by the Gibeonites
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua9_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 10</title>
+      <description><![CDATA[An Extraordinary Miracle
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua10_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua10.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua10.mp3" length="12882225" type="audio/mpeg"/>
+      <itunes:duration>35:46</itunes:duration>
+      <pubDate>Wed, 30 Oct 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>An Extraordinary Miracle
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua10_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 11-12</title>
+      <description><![CDATA[Taking the Land
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua11-12_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua11-12.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua11-12.mp3" length="14166822" type="audio/mpeg"/>
+      <itunes:duration>39:21</itunes:duration>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Taking the Land
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua11-12_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 13-14</title>
+      <description><![CDATA[Inheriting the Land
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua13-14_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua13-14.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua13-14.mp3" length="10044230" type="audio/mpeg"/>
+      <itunes:duration>27:53</itunes:duration>
+      <pubDate>Wed, 20 Nov 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Inheriting the Land
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua13-14_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 15-18</title>
+      <description><![CDATA[Land Allotments are Given
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua15-18_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua15-18.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua15-18.mp3" length="13801160" type="audio/mpeg"/>
+      <itunes:duration>38:20</itunes:duration>
+      <pubDate>Wed, 04 Dec 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Land Allotments are Given
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua15-18_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 19-22</title>
+      <description><![CDATA[Allotments, Cities of Refuge and Eastern Tribes Return Home
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua19-22_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua19-22.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua19-22.mp3" length="16015195" type="audio/mpeg"/>
+      <itunes:duration>44:29</itunes:duration>
+      <pubDate>Wed, 11 Dec 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Allotments, Cities of Refuge and Eastern Tribes Return Home
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua19-22_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Joshua 23-24</title>
+      <description><![CDATA[Joshua's Exhortation and Renewal at Shechem
+<br><a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua23-24_notes.pdf'>Study Notes</a>]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/joshua/joshua23-24.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/joshua/joshua23-24.mp3" length="13879214" type="audio/mpeg"/>
+      <itunes:duration>38:33</itunes:duration>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Joshua's Exhortation and Renewal at Shechem
+&lt;br&gt;&lt;a href='https://www.calvarychapelontario.com/teaching/joshua/notes/Joshua23-24_notes.pdf'&gt;Study Notes&lt;/a&gt;</itunes:subtitle>
+    </item>
+  </channel>
+</rss>

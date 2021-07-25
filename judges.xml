@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Judges - Thru-the-Bible with Pastor Paul (Audio)</title>
+    <link>https://www.ccontario.com/thru-the-bible</link>
+    <description>The Book of Judges</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jul 2021 19:41:44 +0000</lastBuildDate>
+    <pubDate>Wed, 30 Apr 2014 00:00:00 -0500</pubDate>
+    <webMaster>william@hatcher.work</webMaster>
+    <itunes:image href="https://static.wixstatic.com/media/c45ab5_081c3ebc64f7430daf4440a0871322b4~mv2.jpg/v1/fill/w_496,h_270,al_c,q_80,usm_0.66_1.00_0.01/JudgesTitle1.jpg"/>
+    <itunes:owner>
+      <itunes:name>Calvary Chapel Ontario</itunes:name>
+      <itunes:email>none@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Judges 1</title>
+      <description><![CDATA[The Continuing Conquest of the Land]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges1.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges1.mp3" length="79727251" type="audio/mpeg"/>
+      <itunes:duration>41:06</itunes:duration>
+      <pubDate>Fri, 10 Jan 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Continuing Conquest of the Land</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 2</title>
+      <description><![CDATA[The Death of Joshua and Israel's Disobedience]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges2.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges2.mp3" length="14166979" type="audio/mpeg"/>
+      <itunes:duration>39:21</itunes:duration>
+      <pubDate>Mon, 20 Jan 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Death of Joshua and Israel's Disobedience</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 3</title>
+      <description><![CDATA[The first three Judges (Othniel, Ehud and Shamgar)]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges3.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges3.mp3" length="38633135" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The first three Judges (Othniel, Ehud and Shamgar)</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 4-5</title>
+      <description><![CDATA[Deborah and Barak]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges4-5.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges4-5.mp3" length="13332816" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Deborah and Barak</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 6-7</title>
+      <description><![CDATA[Gideon and the Midianites]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges6-7.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges6-7.mp3" length="17994713" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 19 Feb 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Gideon and the Midianites</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 8</title>
+      <description><![CDATA[Gideon's life unravels]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges8.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges8.mp3" length="17984473" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 27 Feb 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Gideon's life unravels</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 9</title>
+      <description><![CDATA[Gideon's Legacy (The downfall of Abimelech)]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges9.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges9.mp3" length="14468571" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Gideon's Legacy (The downfall of Abimelech)</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 10-11</title>
+      <description><![CDATA[The words of your mouth]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges10-11.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges10-11.mp3" length="16236985" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 20 Mar 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The words of your mouth</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 12-14</title>
+      <description><![CDATA[Samson (Part 1)]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges12-14.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges12-14.mp3" length="20209479" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Samson (Part 1)</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 15-16</title>
+      <description><![CDATA[Samson (Part 2)]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges15-16.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges15-16.mp3" length="22955679" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Thu, 10 Apr 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Samson (Part 2)</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 17-18</title>
+      <description><![CDATA[Man-made Religion]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges17-18.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges17-18.mp3" length="18029194" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Sun, 20 Apr 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Man-made Religion</itunes:subtitle>
+    </item>
+    <item>
+      <title>Judges 19-21</title>
+      <description><![CDATA[Worse than Sodom and Gomorrah]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/judges/judges19-21.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/judges/judges19-21.mp3" length="65634357" type="audio/mpeg"/>
+      <itunes:duration>45:34</itunes:duration>
+      <pubDate>Wed, 30 Apr 2014 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Worse than Sodom and Gomorrah</itunes:subtitle>
+    </item>
+  </channel>
+</rss>

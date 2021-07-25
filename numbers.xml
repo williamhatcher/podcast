@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Numbers - Thru-the-Bible with Pastor Paul (Audio)</title>
+    <link>https://www.ccontario.com/thru-the-bible</link>
+    <description>The Book of Numbers</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jul 2021 19:17:10 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Apr 2017 00:00:00 -0500</pubDate>
+    <webMaster>william@hatcher.work</webMaster>
+    <itunes:image href="https://static.wixstatic.com/media/c45ab5_60941dafdc3240d29fb159a8d0d1bac9~mv2.png/v1/fill/w_496,h_270,al_c,lg_1/NUMBERS.png"/>
+    <itunes:owner>
+      <itunes:name>Calvary Chapel Ontario</itunes:name>
+      <itunes:email>none@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Numbers 1-4</title>
+      <description><![CDATA[Intro and First Census]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/numbers/numbers1-4.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/numbers/numbers1-4.mp3" length="121676342" type="audio/mpeg"/>
+      <itunes:duration>01:01:32</itunes:duration>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Intro and First Census</itunes:subtitle>
+    </item>
+    <item>
+      <title>Numbers 5-8</title>
+      <description><![CDATA[Establishing the Community of worship]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/numbers/numbers5-8.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/numbers/numbers5-8.mp3" length="119718770" type="audio/mpeg"/>
+      <itunes:duration>01:00:40</itunes:duration>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Establishing the Community of worship</itunes:subtitle>
+    </item>
+    <item>
+      <title>Numbers 9-11</title>
+      <description><![CDATA[Problems Along the Way]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/numbers/numbers9-11.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/numbers/numbers9-11.mp3" length="109953238" type="audio/mpeg"/>
+      <itunes:duration>56:01</itunes:duration>
+      <pubDate>Wed, 08 Feb 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Problems Along the Way</itunes:subtitle>
+    </item>
+    <item>
+      <title>Numbers 12-14</title>
+      <description><![CDATA[Criticism and Spies Sent Out]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/numbers/numbers12-14.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/numbers/numbers12-14.mp3" length="119652929" type="audio/mpeg"/>
+      <itunes:duration>01:01:07</itunes:duration>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Criticism and Spies Sent Out</itunes:subtitle>
+    </item>
+    <item>
+      <title>Numbers 15 -17</title>
+      <description><![CDATA[Korah's Rebellion and Aaron's Staff]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/numbers/numbers15-17.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/numbers/numbers15-17.mp3" length="115293246" type="audio/mpeg"/>
+      <itunes:duration>58:38</itunes:duration>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Korah's Rebellion and Aaron's Staff</itunes:subtitle>
+    </item>
+    <item>
+      <title>Numbers 18 -20</title>
+      <description><![CDATA[Misrepresenting the Lord]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/numbers/numbers18-20.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/numbers/numbers18-20.mp3" length="110970903" type="audio/mpeg"/>
+      <itunes:duration>56:33</itunes:duration>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Misrepresenting the Lord</itunes:subtitle>
+    </item>
+    <item>
+      <title>Numbers 21 -24</title>
+      <description><![CDATA[Balaam and Balak]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/numbers/numbers21-24.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/numbers/numbers21-24.mp3" length="108990336" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Balaam and Balak</itunes:subtitle>
+    </item>
+    <item>
+      <title>Numbers 25 -27</title>
+      <description><![CDATA[A Threat From Within]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/numbers/numbers25-27.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/numbers/numbers25-27.mp3" length="91218794" type="audio/mpeg"/>
+      <itunes:duration>46:25</itunes:duration>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>A Threat From Within</itunes:subtitle>
+    </item>
+    <item>
+      <title>Numbers 28 -32</title>
+      <description><![CDATA[Lessons from the Old Testament]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/numbers/numbers28-32.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/numbers/numbers28-32.mp3" length="106000080" type="audio/mpeg"/>
+      <itunes:duration>54:05</itunes:duration>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Lessons from the Old Testament</itunes:subtitle>
+    </item>
+    <item>
+      <title>Numbers 33 - 36</title>
+      <description><![CDATA[Final Instruction]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/numbers/numbers33-36.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/numbers/numbers33-36.mp3" length="95135802" type="audio/mpeg"/>
+      <itunes:duration>48:27</itunes:duration>
+      <pubDate>Wed, 26 Apr 2017 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Final Instruction</itunes:subtitle>
+    </item>
+  </channel>
+</rss>

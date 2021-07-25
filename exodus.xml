@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Exodus - Thru-the-Bible with Pastor Paul (Audio)</title>
+    <link>https://www.ccontario.com/thru-the-bible</link>
+    <description>The Book of Exodus</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Jul 2021 19:08:16 +0000</lastBuildDate>
+    <pubDate>Wed, 08 May 2013 00:00:00 -0500</pubDate>
+    <webMaster>william@hatcher.work</webMaster>
+    <itunes:image href="https://static.wixstatic.com/media/c45ab5_bc536bb3ae044b7796dc724fce030557~mv2.jpg/v1/fill/w_496,h_270,al_c,lg_1,q_80/book-of-exodus.jpg"/>
+    <itunes:owner>
+      <itunes:name>Calvary Chapel Ontario</itunes:name>
+      <itunes:email>none@example.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Exodus 1-2</title>
+      <description><![CDATA[Israel in Egypt / The Beginning of Moses]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus1-2.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus1-2.mp3" length="16006662" type="audio/mpeg"/>
+      <itunes:duration>43:58</itunes:duration>
+      <pubDate>Wed, 28 Nov 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Israel in Egypt / The Beginning of Moses</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 3-4</title>
+      <description><![CDATA[The Burning Bush and Powerful Signs]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus3-4.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus3-4.mp3" length="21478113" type="audio/mpeg"/>
+      <itunes:duration>59:10</itunes:duration>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Burning Bush and Powerful Signs</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 5-6</title>
+      <description><![CDATA[God Promises Deliverance]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus5-6.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus5-6.mp3" length="19778012" type="audio/mpeg"/>
+      <itunes:duration>54:27</itunes:duration>
+      <pubDate>Wed, 19 Dec 2012 00:00:00 -0500</pubDate>
+      <itunes:subtitle>God Promises Deliverance</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 7-10</title>
+      <description><![CDATA[The Plagues Begin]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus7-10.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus7-10.mp3" length="54753408" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 16 Jan 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Plagues Begin</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 11-12</title>
+      <description><![CDATA[The Final Plague / Passover]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus11-12.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus11-12.mp3" length="22187495" type="audio/mpeg"/>
+      <itunes:duration>01:01:08</itunes:duration>
+      <pubDate>Wed, 23 Jan 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Final Plague / Passover</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 13-15</title>
+      <description><![CDATA[God's Judgment on the Egyptian Army]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus13-15.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus13-15.mp3" length="55246080" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 30 Jan 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>God's Judgment on the Egyptian Army</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 16</title>
+      <description><![CDATA[Bread from Heaven]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus16.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus16.mp3" length="19688046" type="audio/mpeg"/>
+      <itunes:duration>54:12</itunes:duration>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Bread from Heaven</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 17-18</title>
+      <description><![CDATA[Water from the Rock]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus17-18.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus17-18.mp3" length="19621434" type="audio/mpeg"/>
+      <itunes:duration>54:01</itunes:duration>
+      <pubDate>Wed, 13 Feb 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Water from the Rock</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 19-20</title>
+      <description><![CDATA[Sinai and the Ten Commandments]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus19-20.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus19-20.mp3" length="22564755" type="audio/mpeg"/>
+      <itunes:duration>01:02:11</itunes:duration>
+      <pubDate>Wed, 27 Feb 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Sinai and the Ten Commandments</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 20:18 - 21:26</title>
+      <description><![CDATA[Giving the People Laws (Part 1)]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus20v18-ch21v26.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus20v18-ch21v26.mp3" length="20067031" type="audio/mpeg"/>
+      <itunes:duration>55:15</itunes:duration>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Giving the People Laws (Part 1)</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 21:26 - Ch 23</title>
+      <description><![CDATA[Giving the People Laws (Part 2)]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus21v26-ch23.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus21v26-ch23.mp3" length="49974144" type="audio/mpeg"/>
+      <itunes:duration>00:00</itunes:duration>
+      <pubDate>Wed, 20 Mar 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Giving the People Laws (Part 2)</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 24</title>
+      <description><![CDATA[The Covenant Confirmed]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus24.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus24.mp3" length="22958569" type="audio/mpeg"/>
+      <itunes:duration>35:53</itunes:duration>
+      <pubDate>Wed, 03 Apr 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Covenant Confirmed</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 25-27</title>
+      <description><![CDATA[The Tabernacle and its Furnishings]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus25-27.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus25-27.mp3" length="20073457" type="audio/mpeg"/>
+      <itunes:duration>55:16</itunes:duration>
+      <pubDate>Wed, 10 Apr 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Tabernacle and its Furnishings</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 28-30</title>
+      <description><![CDATA[Consecration of the Priesthood]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus28-30.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus28-30.mp3" length="21454133" type="audio/mpeg"/>
+      <itunes:duration>59:06</itunes:duration>
+      <pubDate>Wed, 17 Apr 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Consecration of the Priesthood</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 31-32</title>
+      <description><![CDATA[The Sabbath and the Golden Calf]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus31-32.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus31-32.mp3" length="19814531" type="audio/mpeg"/>
+      <itunes:duration>54:33</itunes:duration>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>The Sabbath and the Golden Calf</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 33-35</title>
+      <description><![CDATA[Leaving Sinai with New Tablets]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus33-35.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus33-35.mp3" length="19428876" type="audio/mpeg"/>
+      <itunes:duration>53:58</itunes:duration>
+      <pubDate>Wed, 01 May 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Leaving Sinai with New Tablets</itunes:subtitle>
+    </item>
+    <item>
+      <title>Exodus 36-40</title>
+      <description><![CDATA[Building the Tabernacle and its Furnishings]]></description>
+      <guid isPermaLink="false">https://www.calvarychapelontario.com/teaching/exodus/exodus36-40.mp3</guid>
+      <enclosure url="https://www.calvarychapelontario.com/teaching/exodus/exodus36-40.mp3" length="19623697" type="audio/mpeg"/>
+      <itunes:duration>54:30</itunes:duration>
+      <pubDate>Wed, 08 May 2013 00:00:00 -0500</pubDate>
+      <itunes:subtitle>Building the Tabernacle and its Furnishings</itunes:subtitle>
+    </item>
+  </channel>
+</rss>
